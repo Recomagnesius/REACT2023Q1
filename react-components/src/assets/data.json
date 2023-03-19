@@ -1,0 +1,148 @@
+{
+  "brain": [
+    {
+      "name": "Brainstem",
+      "description": "Brainstem is responsible for many deadly important funtions of YOUR life! Breathing, consciousness, blood presure, heart rate, sleep, EVERYTHING that you need. brainstem also contains many critical collections of white and grey matter which is included in the price (basically free).",
+      "img": "https://anatomy.net/uploads/2912b7dc-c9ff-4957-8bf4-594088f2fdb4.jpg?width=1200",
+      "price": 9.99
+    },
+    {
+       "name":"Hindbrain",
+       "description": "Hindbrain is one of the three major regions of brains, it controls the body's BEST functions such as respiration and heart rate. You can't live with zero heart rate, just saying",
+       "img": "http://static1.squarespace.com/static/5f0df9b08245405fe406aee5/t/60196f1154023d49ce72a17a/1612279576677/BWC+-+3+basic+units+%E2%80%93+the+forebrain%2C+midbrain%2C+and+hindbrain.jpg?format=1500w",
+       "price": 999.99
+    },
+    {
+       "name":"Midbrain",
+       "description": "Midbrain serves important functions im motor movement, particularly movements of the eye, and in auditory and visual processing. And you need it to move even if you don't have a motor.",
+       "img": "https://neuroscientificallychallenged.com/app/cms/assets/thumbnails/midbrain2.jpg",
+       "price": 999.99
+    },
+    {
+       "name":"Forebrain",
+       "description": "Forebrain is responsible for receiving and processing sensory information, thinking, perceiving, producing and understanding language, and controlling motor function.",
+       "img": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/855/2016/10/28162724/4f26a2da7a65c79c6a45dd14b1957a84752b3c2c.jpeg",
+       "price": 999.99
+    },
+    {
+       "name":"Medulla",
+       "description": "Your medulla is where your cardiovascular and respiratory systems link together into a united system that controls your heart rate, breathing, blood pressure and more.These are things that your body often does without you having to think about them.",
+       "img": "https://neuroscientificallychallenged.com/app/cms/assets/thumbnails/medulla2.jpg",
+       "price": 99.99
+    },
+    {
+       "name":"Pons",
+       "description": "Pons is a part of your brainstem, a structure that links your brain to your spinal cord. It handles unconscious processes and jobs, such as your sleep-wake cycle and breathing. It also contains several junction points for nerves that control muscles and carry information from senses in your head and face.",
+       "img": "https://anatomy.net/uploads/23f527ca-7e8d-4a21-be7f-ff6fb3040b0c.jpg?width=1200",
+       "price": 99.99
+    },
+    {
+       "name":"Reticular formation",
+       "description": "The reticular formation is the primary regulator of arousal and consciousness. During sleep, the center normally suppresses the individual's level of consciousness. Efferent fibers from the reticular formation can convey sensory information to the cortex of a sleeping individual, which would awaken that person.",
+       "img": "https://antranik.org/wp-content/uploads/2011/11/reticular-formation-radiation-impulses-motor-projections.jpg",
+       "price": 25.00
+    },
+    {
+       "name":"Dendrite",
+       "description": "The functions of dendrites are to receive signals from other neurons, to process these signals, and to transfer the information to the soma of the neuron. Don't make your neurons feel lonely! Esspecially when it is such a good price.",
+       "img": "https://www.shutterstock.com/image-vector/diagram-neuron-anatomy-illustration-260nw-1117508645.jpg",
+       "price": 7.99
+    },
+    {
+       "name":"Sensory Cortex",
+       "description": "The primary somatosensory cortex is responsible for processing somatic sensations. The process by which the nature and meaning of tactile stimuli are recognized and interpreted by the brain, such as realizing the characteristics or name of an object being touched.",
+       "img": "https://study.com/cimages/videopreview/somatosensory-cortex-definition-location-function_01004018_182688.jpg",
+       "price": 35.00
+    },
+    {
+       "name":"Cerebrellum",
+       "description": "The name “cerebellum” comes from Latin and means “little brain.” Maintenance of balance and posture. The cerebellum is important for making postural adjustments in order to maintain balance.",
+       "img": "https://cdn.flintrehab.com/uploads/2020/11/cerebellum-damage.png",
+       "price": 799.99
+    },
+    {
+       "name":"Thalamus",
+       "description": "Your thalamus is your body's information relay station. All information from your body's senses (except smell) must be processed through your thalamus before being sent to your brain's cerebral cortex for interpretation. Your thalamus also plays a role in sleep, wakefulness, consciousness, learning and memory.",
+       "img": "https://www.news-medical.net/image.axd?picture=2016%2F7%2FBrain_Diagram_shutterstock_233671144.jpg",
+       "price": 799.99
+    },
+    {
+       "name":"Hypothalamus",
+       "description": "Your hypothalamus, a structure deep in your brain, acts as your body’s smart control coordinating center. Its main function is to keep your body in a stable state called homeostasis. It does its job by directly influencing your autonomic nervous system or by managing hormones. ",
+       "img": "https://www.news-medical.net/image.axd?picture=2010%2F7%2Fbrain-thalamus.gif",
+       "price": 799.99
+    },
+    {
+       "name":"Hippocampus",
+       "description": "",
+       "img": "https://www.growthengineering.co.uk/wp-content/uploads/2022/07/Hippocampus-01-1024x1024.png",
+       "price": 0
+    },
+    {
+       "name":"Amygdala",
+       "description": "",
+       "img": "https://neuroscientificallychallenged.com/app/cms/assets/thumbnails/amygdala.jpg",
+       "price": 0
+    },
+    {
+       "name":"Temporal Lobe",
+       "description": "",
+       "img": "https://www.health.qld.gov.au/__data/assets/image/0028/447607/temporal.gif",
+       "price": 0
+    },
+    {
+       "name":"Corpus Callosum",
+       "description": "",
+       "img": "https://i.ytimg.com/vi/xMvVAfZcU1s/maxresdefault.jpg",
+       "price": 0
+    },
+    {
+       "name":"Myelin Sheath",
+       "description": "",
+       "img": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/22974-myelin-sheath",
+       "price": 0
+    },
+    {
+       "name":"Motor Cortex",
+       "description": "",
+       "img": "https://thebrain.mcgill.ca/flash/a/a_06/a_06_cr/a_06_cr_mou/a_06_cr_mou_1a.jpg",
+       "price": 0
+    },
+    {
+       "name":"Parietal Lobe",
+       "description": "",
+       "img": "https://cdn.flintrehab.com/uploads/2020/05/parietal-lobe-damage.png",
+       "price": 0
+    },
+    {
+       "name":"Occipital Lobe",
+       "description": "",
+       "img": "https://cdn.flintrehab.com/uploads/2021/01/occipital-lobe-stroke.png",
+       "price": 0
+    },
+    {
+       "name":"Neuron",
+       "description": "",
+       "img": "https://cdn1.byjus.com/wp-content/uploads/2020/02/STRUCTURE-OF-NEURON.png",
+       "price": 0
+    },
+    {
+       "name":"Frontal Lobe",
+       "description": "",
+       "img": "https://cdn.flintrehab.com/uploads/2020/09/frontal-lobe-damage.png",
+       "price": 0
+    },
+    {
+       "name":"Limbic System",
+       "description": "",
+       "img": "https://www.physio-pedia.com/images/thumb/5/5d/LimbicSystem.png/600px-LimbicSystem.png",
+       "price": 0
+    },
+    {
+       "name":"Neurotransmitter",
+       "description": "",
+       "img": "https://www.dana.org/wp-content/uploads/2019/06/neurotransmitter-short-cartoon-basics.png",
+       "price": 0
+    }
+  ]
+}

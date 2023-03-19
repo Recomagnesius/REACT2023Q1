@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import "./About.css"
+import React, { Component } from 'react';
+import './About.css';
 
 export class About extends Component {
   render() {
@@ -7,8 +7,8 @@ export class About extends Component {
       <div>
         <h1>ABOUT PAGE</h1>
       </div>
-    )
+    );
   }
 }
 
-export default About
+export default About;
