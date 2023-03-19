@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 import './SearchBar.css';
 
+type MyProps = {
+  visible: boolean;
+};
+
 // eslint-disable-next-line @typescript-eslint/ban-types
-export class SearchBar extends Component<object, { searchValue: string }> {
-  constructor(props: object) {
+export class SearchBar extends Component<MyProps, { searchValue: string }> {
+  constructor(props: MyProps) {
     super(props);
     console.log(this?.state?.searchValue + ' constr');
     this.state = {
@@ -14,11 +18,9 @@ export class SearchBar extends Component<object, { searchValue: string }> {
   }
 
   componentDidMount(): void {
-    let val: string;
-    if (localStorage.getItem('searchValue') == null) val = '';
-    else {
-      val = localStorage.getItem('searchValue')!;
-    }
+    this.setState({
+      searchValue: '',
+    });
     this.setState({
       searchValue: localStorage.getItem('searchValue')!,
     });
@@ -34,13 +36,13 @@ export class SearchBar extends Component<object, { searchValue: string }> {
     this.setState({
       searchValue: val,
     });
-    localStorage.setItem('searchValue', this.state.searchValue);
+    localStorage.setItem('searchValue', val);
     console.log(this.state.searchValue + ' update');
   }
 
   render() {
     return (
-      <div className="search-bar">
+      <div className={this.props.visible ? 'search-bar' : 'search-bar-none'}>
         <input
           value={this.state.searchValue}
           onChange={this.updateSearchValue}

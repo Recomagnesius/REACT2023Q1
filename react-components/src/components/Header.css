@@ -12,6 +12,20 @@
   display: flex;
   padding: 1vw;
   background-color: #00444D;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.header-link{
+  color: white;
+}
+.toOtherPage{
+  color: orange;
 }

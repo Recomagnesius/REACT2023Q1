@@ -3,6 +3,10 @@
   display: flex;
 }
 
+.search-bar-none{
+  display: none;
+}
+
 .search-bar__input{
   width: 100%;
   border: 3px solid #00B4CC;
