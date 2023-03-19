@@ -1,0 +1,31 @@
+/* css.gg */
+@import url('https://css.gg/css');
+
+/* UNPKG */
+@import url('https://unpkg.com/css.gg/icons/all.css');
+
+/* JSDelivr */
+@import url('https://cdn.jsdelivr.net/npm/css.gg/icons/all.css');
+
+.Header{
+  height: 100px;
+  display: flex;
+  padding: 1vw;
+  background-color: #00444D;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.header-link{
+  color: white;
+}
+.toOtherPage{
+  color: orange;
+}
